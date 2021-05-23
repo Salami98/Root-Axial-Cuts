@@ -1,0 +1,2 @@
+# Root-Axial-Cuts
+While in recent years, new tools for characterization of root anatomical features have been developed, they are demand intensive labor and time consuming and therefore cannot be considered as high-throughput. To address the high-throughput phenotyping limitation, we suggest to build a deep learning system that could extract both axial and radial conductance from ~ 500 cross-section images,
